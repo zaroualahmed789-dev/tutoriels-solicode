@@ -39,3 +39,4 @@ console.log("Vente minimale :", minimum);
 console.log("Nombre de ventes exceptionnelles :", nbExceptionnelles);
 console.log("Chiffre d'affaires exceptionnel :", sommeExceptionnelles);
 
+
