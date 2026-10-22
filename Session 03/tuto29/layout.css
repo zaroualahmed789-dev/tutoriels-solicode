@@ -1,0 +1,31 @@
+ body { margin: 0; color: #1f2937; background: #f9fafb; font-family: Arial, sans-serif; line-height: 1.5; }
+a { color: inherit; text-decoration: none; }
+ul { list-style: none; padding: 0; margin: 0; }
+ 
+ .en-tete-site { padding: 20px 24px; background: white; border-bottom: 1px solid #e5e7eb;}
+.logo { font-family: Georgia, serif; font-size: 22px; font-weight: 900; }
+.logo-sombre { color: #111827; }
+.logo-couleur { color: #2673e8; }
+.liens-navigation a { color: #6b7280; font-size: 14px; font-weight: 500; }
+
+.bouton-principal { display: inline-block; padding: 10px 20px; color: white; background: #2673e8; border-radius: 8px; font-size: 14px; font-weight: 600; text-align: center; }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .pied-de-page { margin-top: 80px; padding: 64px 24px 24px; background: white; border-top: 1px solid #e5e7eb; }
+.colonne-pied-de-page h2 { margin: 0 0 20px; color: #111827; font-size: 16px; text-transform: uppercase; }
+.colonne-pied-de-page p, .colonne-pied-de-page a { color: #6b7280; font-size: 14px; }
+.colonne-pied-de-page li { margin-bottom: 12px; }
+.bas-pied-de-page { max-width: 1200px; margin: 64px auto 0; padding-top: 24px; text-align: center; border-top: 1px solid #e5e7eb; }
+.bas-pied-de-page p { margin: 0; color: #9ca3af; font-size: 12px; } 
+
+
+.conteneur-pied-de-page {
+    display: flex;
+    flex-direction: row;
+}
