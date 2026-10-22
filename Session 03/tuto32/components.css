@@ -1,0 +1,2 @@
+.pilule-filtre { display: inline-block; padding: 10px 16px; margin: 4px; color: #4b5563; background: white; border: 1px solid #e5e7eb; border-radius: 8px; }
+.pilule-filtre.actif { color: white; background: #111827; }
