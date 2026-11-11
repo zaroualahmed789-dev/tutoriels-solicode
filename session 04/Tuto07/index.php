@@ -19,6 +19,15 @@ $articles = [
         'date_creation' => '2026-02-10',
         'categorie_libelle' => 'Design UI/UX',
         'categorie_couleur' => 'rose'
+    ],
+     [
+        'id' => 3,
+        'titre' => 'Maîtriser les micro-interactions UI',
+        'contenu' => 'Une interface belle n\'est pas suffisante. Les micro-interactions améliorent l\'expérience utilisateur.',
+        'image' => 'article-example.png',
+        'date_creation' => '2026-02-10',
+        'categorie_libelle' => 'Design UI/UX',
+        'categorie_couleur' => 'rose'
     ]
 ];
 
